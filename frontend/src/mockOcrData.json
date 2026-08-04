@@ -1,0 +1,2564 @@
+[
+  {
+    "box": [
+      [
+        76.0,
+        0.0
+      ],
+      [
+        211.0,
+        0.0
+      ],
+      [
+        211.0,
+        41.0
+      ],
+      [
+        76.0,
+        41.0
+      ]
+    ],
+    "text": "航海王1",
+    "confidence": 0.9974958300590515,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "航海",
+      "definitions": [
+        {
+          "traditional": "航海",
+          "simplified": "航海",
+          "pinyin": "hang2 hai3",
+          "english": "to sail the seas/maritime navigation/voyage"
+        },
+        {
+          "traditional": "航海",
+          "simplified": "航海",
+          "pinyin": "hang2 hai3",
+          "english": "to sail the seas/maritime navigation/voyage"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        197.0,
+        39.0
+      ],
+      [
+        316.0,
+        34.0
+      ],
+      [
+        321.0,
+        139.0
+      ],
+      [
+        201.0,
+        144.0
+      ]
+    ],
+    "text": "十仁",
+    "confidence": 0.5424947142601013,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "十",
+      "definitions": [
+        {
+          "traditional": "十",
+          "simplified": "十",
+          "pinyin": "shi2",
+          "english": "ten/10"
+        },
+        {
+          "traditional": "十",
+          "simplified": "十",
+          "pinyin": "shi2",
+          "english": "ten/10"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        306.0,
+        32.0
+      ],
+      [
+        794.0,
+        28.0
+      ],
+      [
+        795.0,
+        122.0
+      ],
+      [
+        307.0,
+        126.0
+      ]
+    ],
+    "text": "はっははば",
+    "confidence": 0.83245450258255,
+    "is_chinese": false,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        1179.0,
+        59.0
+      ],
+      [
+        1217.0,
+        59.0
+      ],
+      [
+        1219.0,
+        161.0
+      ],
+      [
+        1181.0,
+        162.0
+      ]
+    ],
+    "text": "勇氣…",
+    "confidence": 0.9805586934089661,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "勇氣",
+      "definitions": [
+        {
+          "traditional": "勇氣",
+          "simplified": "勇气",
+          "pinyin": "yong3 qi4",
+          "english": "courage"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1219.0,
+        60.0
+      ],
+      [
+        1256.0,
+        60.0
+      ],
+      [
+        1256.0,
+        194.0
+      ],
+      [
+        1219.0,
+        194.0
+      ]
+    ],
+    "text": "為魯夫的",
+    "confidence": 0.9990909099578857,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "為",
+      "definitions": [
+        {
+          "traditional": "為",
+          "simplified": "为",
+          "pinyin": "wei2",
+          "english": "as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)"
+        },
+        {
+          "traditional": "為",
+          "simplified": "为",
+          "pinyin": "wei4",
+          "english": "because of/for/to"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        869.0,
+        98.0
+      ],
+      [
+        913.0,
+        98.0
+      ],
+      [
+        914.0,
+        324.0
+      ],
+      [
+        871.0,
+        325.0
+      ]
+    ],
+    "text": "得起海賊嗎？",
+    "confidence": 0.9993285536766052,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "得起",
+      "definitions": [
+        {
+          "traditional": "得起",
+          "simplified": "得起",
+          "pinyin": "de5 qi3",
+          "english": "(verb complement indicating ability to afford or bear the cost or consequences of doing sth)"
+        },
+        {
+          "traditional": "得起",
+          "simplified": "得起",
+          "pinyin": "de5 qi3",
+          "english": "(verb complement indicating ability to afford or bear the cost or consequences of doing sth)"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        912.0,
+        96.0
+      ],
+      [
+        957.0,
+        96.0
+      ],
+      [
+        959.0,
+        360.0
+      ],
+      [
+        913.0,
+        360.0
+      ]
+    ],
+    "text": "就憑你，也能當",
+    "confidence": 0.957168698310852,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "就",
+      "definitions": [
+        {
+          "traditional": "就",
+          "simplified": "就",
+          "pinyin": "jiu4",
+          "english": "(after a suppositional clause) in that case; then/(after a clause of action) as soon as; immediately after/(same as 就是[jiu4 shi4]) merely; nothing else but; simply; just; precisely; exactly/only; as little as/as much as; as many as/to approach; to move towards/to undertake; to engage in/(often followed by 著|着[zhe5]) taking advantage of/(of food) to go with/with regard to; concerning/(bound form) to reach; to attain (as in 一蹴而就[yi1 cu4 er2 jiu4])/(pattern: 就[jiu4] ... 也[ye3] ...) even if ... still .../(pattern: 不[bu4] ... 就[jiu4] ...) if not ... then must be ..."
+        },
+        {
+          "traditional": "就",
+          "simplified": "就",
+          "pinyin": "jiu4",
+          "english": "(after a suppositional clause) in that case; then/(after a clause of action) as soon as; immediately after/(same as 就是[jiu4 shi4]) merely; nothing else but; simply; just; precisely; exactly/only; as little as/as much as; as many as/to approach; to move towards/to undertake; to engage in/(often followed by 著|着[zhe5]) taking advantage of/(of food) to go with/with regard to; concerning/(bound form) to reach; to attain (as in 一蹴而就[yi1 cu4 er2 jiu4])/(pattern: 就[jiu4] ... 也[ye3] ...) even if ... still .../(pattern: 不[bu4] ... 就[jiu4] ...) if not ... then must be ..."
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1023.0,
+        90.0
+      ],
+      [
+        1064.0,
+        90.0
+      ],
+      [
+        1064.0,
+        166.0
+      ],
+      [
+        1023.0,
+        166.0
+      ]
+    ],
+    "text": "杯！",
+    "confidence": 0.98763108253479,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "杯",
+      "definitions": [
+        {
+          "traditional": "杯",
+          "simplified": "杯",
+          "pinyin": "bei1",
+          "english": "cup/trophy cup/classifier for certain containers of liquids: glass, cup"
+        },
+        {
+          "traditional": "杯",
+          "simplified": "杯",
+          "pinyin": "bei1",
+          "english": "cup/trophy cup/classifier for certain containers of liquids: glass, cup"
+        },
+        {
+          "traditional": "桮",
+          "simplified": "杯",
+          "pinyin": "bei1",
+          "english": "variant of 杯[bei1]"
+        },
+        {
+          "traditional": "盃",
+          "simplified": "杯",
+          "pinyin": "bei1",
+          "english": "variant of 杯[bei1]/trophy cup/classifier for certain containers of liquids: glass, cup"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1062.0,
+        92.0
+      ],
+      [
+        1102.0,
+        92.0
+      ],
+      [
+        1102.0,
+        258.0
+      ],
+      [
+        1062.0,
+        258.0
+      ]
+    ],
+    "text": "大的旅程乾",
+    "confidence": 0.9999513626098633,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "大",
+      "definitions": [
+        {
+          "traditional": "大",
+          "simplified": "大",
+          "pinyin": "da4",
+          "english": "big; large; great/older (than another person)/eldest (as in 大姐[da4 jie3])/greatly; freely; fully/(dialect) father/(dialect) uncle (father's brother)"
+        },
+        {
+          "traditional": "大",
+          "simplified": "大",
+          "pinyin": "da4",
+          "english": "big; large; great/older (than another person)/eldest (as in 大姐[da4 jie3])/greatly; freely; fully/(dialect) father/(dialect) uncle (father's brother)"
+        },
+        {
+          "traditional": "大",
+          "simplified": "大",
+          "pinyin": "dai4",
+          "english": "see 大夫[dai4 fu5]"
+        },
+        {
+          "traditional": "大",
+          "simplified": "大",
+          "pinyin": "dai4",
+          "english": "see 大夫[dai4 fu5]"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1098.0,
+        92.0
+      ],
+      [
+        1137.0,
+        91.0
+      ],
+      [
+        1139.0,
+        257.0
+      ],
+      [
+        1101.0,
+        258.0
+      ]
+    ],
+    "text": "以及我們偉",
+    "confidence": 0.9988476037979126,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "以及",
+      "definitions": [
+        {
+          "traditional": "以及",
+          "simplified": "以及",
+          "pinyin": "yi3 ji2",
+          "english": "and; as well as"
+        },
+        {
+          "traditional": "以及",
+          "simplified": "以及",
+          "pinyin": "yi3 ji2",
+          "english": "and; as well as"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        34.0,
+        121.0
+      ],
+      [
+        80.0,
+        121.0
+      ],
+      [
+        80.0,
+        246.0
+      ],
+      [
+        34.0,
+        246.0
+      ]
+    ],
+    "text": "傷啊！",
+    "confidence": 0.9940016269683838,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "傷",
+      "definitions": [
+        {
+          "traditional": "傷",
+          "simplified": "伤",
+          "pinyin": "shang1",
+          "english": "to injure/injury/wound"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        79.0,
+        119.0
+      ],
+      [
+        127.0,
+        119.0
+      ],
+      [
+        127.0,
+        357.0
+      ],
+      [
+        79.0,
+        357.0
+      ]
+    ],
+    "text": "來說可是致命",
+    "confidence": 0.9996930956840515,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "來",
+      "definitions": [
+        {
+          "traditional": "來",
+          "simplified": "来",
+          "pinyin": "lai2",
+          "english": "to come/(used as a substitute for a more specific verb)/hither (directional complement for motion toward the speaker, as in 回來|回来[hui2 lai5])/ever since (as in 自古以來|自古以来[zi4 gu3 yi3 lai2])/for the past (amount of time)/(prefix) the coming ...; the next ... (as in 來世|来世[lai2 shi4])/(between two verbs) in order to/(after a round number) approximately/(used after 得[de2] to indicate possibility, as in 談得來|谈得来[tan2 de5 lai2], or after 不[bu4] to indicate impossibility, as in 吃不來|吃不来[chi1 bu5 lai2])"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        124.0,
+        119.0
+      ],
+      [
+        171.0,
+        119.0
+      ],
+      [
+        172.0,
+        356.0
+      ],
+      [
+        125.0,
+        356.0
+      ]
+    ],
+    "text": "旱鴨子對海賊",
+    "confidence": 0.9985458254814148,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "旱鴨子",
+      "definitions": [
+        {
+          "traditional": "旱鴨子",
+          "simplified": "旱鸭子",
+          "pinyin": "han4 ya1 zi5",
+          "english": "non-swimmer"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1755.0,
+        121.0
+      ],
+      [
+        1798.0,
+        121.0
+      ],
+      [
+        1798.0,
+        262.0
+      ],
+      [
+        1755.0,
+        262.0
+      ]
+    ],
+    "text": "乾杯吧！",
+    "confidence": 0.9992594718933105,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "乾杯",
+      "definitions": [
+        {
+          "traditional": "乾杯",
+          "simplified": "干杯",
+          "pinyin": "gan1 bei1",
+          "english": "to drink a toast/Cheers! (proposing a toast)/Here's to you!/Bottoms up!/lit. dry cup"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1796.0,
+        121.0
+      ],
+      [
+        1838.0,
+        121.0
+      ],
+      [
+        1837.0,
+        263.0
+      ],
+      [
+        1795.0,
+        262.0
+      ]
+    ],
+    "text": "同伴們！",
+    "confidence": 0.9963856935501099,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "同伴",
+      "definitions": [
+        {
+          "traditional": "同伴",
+          "simplified": "同伴",
+          "pinyin": "tong2 ban4",
+          "english": "companion; comrade; fellow"
+        },
+        {
+          "traditional": "同伴",
+          "simplified": "同伴",
+          "pinyin": "tong2 ban4",
+          "english": "companion; comrade; fellow"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1139.0,
+        394.0
+      ],
+      [
+        1184.0,
+        394.0
+      ],
+      [
+        1184.0,
+        525.0
+      ],
+      [
+        1139.0,
+        525.0
+      ]
+    ],
+    "text": "啦，喝酒",
+    "confidence": 0.9426246881484985,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "啦",
+      "definitions": [
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la1",
+          "english": "(onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la1",
+          "english": "(onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la5",
+          "english": "sentence-final particle, contraction of 了啊, indicating exclamation/particle placed after each item in a list of examples"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la5",
+          "english": "sentence-final particle, contraction of 了啊, indicating exclamation/particle placed after each item in a list of examples"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1172.0,
+        394.0
+      ],
+      [
+        1216.0,
+        393.0
+      ],
+      [
+        1220.0,
+        524.0
+      ],
+      [
+        1176.0,
+        526.0
+      ]
+    ],
+    "text": "喂，別吵",
+    "confidence": 0.8409264087677002,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "喂",
+      "definitions": [
+        {
+          "traditional": "喂",
+          "simplified": "喂",
+          "pinyin": "wei2",
+          "english": "hello (when answering the phone)"
+        },
+        {
+          "traditional": "喂",
+          "simplified": "喂",
+          "pinyin": "wei2",
+          "english": "hello (when answering the phone)"
+        },
+        {
+          "traditional": "喂",
+          "simplified": "喂",
+          "pinyin": "wei4",
+          "english": "hey/to feed (an animal, baby, invalid etc)"
+        },
+        {
+          "traditional": "喂",
+          "simplified": "喂",
+          "pinyin": "wei4",
+          "english": "hey/to feed (an animal, baby, invalid etc)"
+        },
+        {
+          "traditional": "餧",
+          "simplified": "喂",
+          "pinyin": "wei4",
+          "english": "variant of 餵|喂[wei4]"
+        },
+        {
+          "traditional": "餵",
+          "simplified": "喂",
+          "pinyin": "wei4",
+          "english": "to feed"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1427.0,
+        386.0
+      ],
+      [
+        1467.0,
+        386.0
+      ],
+      [
+        1467.0,
+        459.0
+      ],
+      [
+        1427.0,
+        459.0
+      ]
+    ],
+    "text": "肉！",
+    "confidence": 0.9700558185577393,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "肉",
+      "definitions": [
+        {
+          "traditional": "肉",
+          "simplified": "肉",
+          "pinyin": "rou4",
+          "english": "meat/flesh/pulp (of a fruit)/(coll.) (of a fruit) squashy/(of a person) flabby/irresolute/Kangxi radical 130"
+        },
+        {
+          "traditional": "肉",
+          "simplified": "肉",
+          "pinyin": "rou4",
+          "english": "meat/flesh/pulp (of a fruit)/(coll.) (of a fruit) squashy/(of a person) flabby/irresolute/Kangxi radical 130"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1466.0,
+        386.0
+      ],
+      [
+        1505.0,
+        386.0
+      ],
+      [
+        1505.0,
+        520.0
+      ],
+      [
+        1466.0,
+        520.0
+      ]
+    ],
+    "text": "塊是我的",
+    "confidence": 0.9970678091049194,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "塊",
+      "definitions": [
+        {
+          "traditional": "塊",
+          "simplified": "块",
+          "pinyin": "kuai4",
+          "english": "lump; chunk; piece/classifier for pieces of cloth, cake, soap etc/(coll.) classifier for money and currency units"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1502.0,
+        386.0
+      ],
+      [
+        1543.0,
+        386.0
+      ],
+      [
+        1543.0,
+        520.0
+      ],
+      [
+        1502.0,
+        520.0
+      ]
+    ],
+    "text": "混帳那",
+    "confidence": 0.9990830421447754,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "混",
+      "definitions": [
+        {
+          "traditional": "混",
+          "simplified": "混",
+          "pinyin": "hun2",
+          "english": "muddy; turbid (variant of 渾|浑[hun2])/brainless; foolish (variant of 渾|浑[hun2])/Taiwan pr. [hun4]"
+        },
+        {
+          "traditional": "混",
+          "simplified": "混",
+          "pinyin": "hun2",
+          "english": "muddy; turbid (variant of 渾|浑[hun2])/brainless; foolish (variant of 渾|浑[hun2])/Taiwan pr. [hun4]"
+        },
+        {
+          "traditional": "混",
+          "simplified": "混",
+          "pinyin": "hun4",
+          "english": "to mix/to mingle/muddled/to drift along/to muddle along/to pass for/to get along with sb/thoughtless/reckless"
+        },
+        {
+          "traditional": "混",
+          "simplified": "混",
+          "pinyin": "hun4",
+          "english": "to mix/to mingle/muddled/to drift along/to muddle along/to pass for/to get along with sb/thoughtless/reckless"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1036.0,
+        398.0
+      ],
+      [
+        1075.0,
+        398.0
+      ],
+      [
+        1075.0,
+        496.0
+      ],
+      [
+        1036.0,
+        496.0
+      ]
+    ],
+    "text": "看的！",
+    "confidence": 0.9957561492919922,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "看",
+      "definitions": [
+        {
+          "traditional": "看",
+          "simplified": "看",
+          "pinyin": "kan1",
+          "english": "to look after/to take care of/to watch/to guard"
+        },
+        {
+          "traditional": "看",
+          "simplified": "看",
+          "pinyin": "kan1",
+          "english": "to look after/to take care of/to watch/to guard"
+        },
+        {
+          "traditional": "看",
+          "simplified": "看",
+          "pinyin": "kan4",
+          "english": "to see; to look at/to read/to watch/to visit; to call on/to consider; to regard as/to look after/to treat (a patient or illness)/to depend on/to feel (that)/(after a verb) to give it a try/to watch out for"
+        },
+        {
+          "traditional": "看",
+          "simplified": "看",
+          "pinyin": "kan4",
+          "english": "to see; to look at/to read/to watch/to visit; to call on/to consider; to regard as/to look after/to treat (a patient or illness)/to depend on/to feel (that)/(after a verb) to give it a try/to watch out for"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1071.0,
+        397.0
+      ],
+      [
+        1111.0,
+        397.0
+      ],
+      [
+        1111.0,
+        524.0
+      ],
+      [
+        1071.0,
+        524.0
+      ]
+    ],
+    "text": "這樣很難",
+    "confidence": 0.9953701496124268,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "這樣",
+      "definitions": [
+        {
+          "traditional": "這樣",
+          "simplified": "这样",
+          "pinyin": "zhe4 yang4",
+          "english": "this way; like this; so/(before a noun) this kind of; such"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1106.0,
+        396.0
+      ],
+      [
+        1146.0,
+        396.0
+      ],
+      [
+        1146.0,
+        522.0
+      ],
+      [
+        1106.0,
+        522.0
+      ]
+    ],
+    "text": "還打架，",
+    "confidence": 0.9245909452438354,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "還",
+      "definitions": [
+        {
+          "traditional": "還",
+          "simplified": "还",
+          "pinyin": "Huan2",
+          "english": "surname Huan"
+        },
+        {
+          "traditional": "還",
+          "simplified": "还",
+          "pinyin": "hai2",
+          "english": "still/still in progress/still more/yet/even more/in addition/fairly/passably (good)/as early as/even/also/else"
+        },
+        {
+          "traditional": "還",
+          "simplified": "还",
+          "pinyin": "huan2",
+          "english": "to pay back/to return"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1822.0,
+        394.0
+      ],
+      [
+        1861.0,
+        394.0
+      ],
+      [
+        1860.0,
+        530.0
+      ],
+      [
+        1821.0,
+        530.0
+      ]
+    ],
+    "text": "儘量喝吧",
+    "confidence": 0.9951021671295166,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "儘量",
+      "definitions": [
+        {
+          "traditional": "儘量",
+          "simplified": "尽量",
+          "pinyin": "jin3 liang4",
+          "english": "as much as possible/to the greatest extent"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1708.0,
+        404.0
+      ],
+      [
+        1758.0,
+        407.0
+      ],
+      [
+        1751.0,
+        521.0
+      ],
+      [
+        1701.0,
+        518.0
+      ]
+    ],
+    "text": "酒啊！",
+    "confidence": 0.9915499687194824,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "酒",
+      "definitions": [
+        {
+          "traditional": "酒",
+          "simplified": "酒",
+          "pinyin": "jiu3",
+          "english": "wine (esp. rice wine)/liquor/spirits/alcoholic beverage/CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+        },
+        {
+          "traditional": "酒",
+          "simplified": "酒",
+          "pinyin": "jiu3",
+          "english": "wine (esp. rice wine)/liquor/spirits/alcoholic beverage/CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1859.0,
+        395.0
+      ],
+      [
+        1900.0,
+        395.0
+      ],
+      [
+        1900.0,
+        546.0
+      ],
+      [
+        1859.0,
+        546.0
+      ]
+    ],
+    "text": "啊哈哈哈",
+    "confidence": 0.9915960431098938,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "啊",
+      "definitions": [
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a1",
+          "english": "interjection of surprise/Ah!/Oh!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a1",
+          "english": "interjection of surprise/Ah!/Oh!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a2",
+          "english": "interjection expressing doubt or requiring answer/Eh?/what?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a2",
+          "english": "interjection expressing doubt or requiring answer/Eh?/what?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a3",
+          "english": "interjection of surprise or doubt/Eh?/My!/what's up?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a3",
+          "english": "interjection of surprise or doubt/Eh?/My!/what's up?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a4",
+          "english": "interjection or grunt of agreement/uhm/Ah, OK/expression of recognition/Oh, it's you!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a4",
+          "english": "interjection or grunt of agreement/uhm/Ah, OK/expression of recognition/Oh, it's you!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a5",
+          "english": "modal particle ending sentence, showing affirmation, approval, or consent"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a5",
+          "english": "modal particle ending sentence, showing affirmation, approval, or consent"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1251.0,
+        413.0
+      ],
+      [
+        1291.0,
+        414.0
+      ],
+      [
+        1290.0,
+        510.0
+      ],
+      [
+        1249.0,
+        509.0
+      ]
+    ],
+    "text": "我的。",
+    "confidence": 0.9282523989677429,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "我",
+      "definitions": [
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        },
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1286.0,
+        415.0
+      ],
+      [
+        1325.0,
+        415.0
+      ],
+      [
+        1325.0,
+        513.0
+      ],
+      [
+        1286.0,
+        513.0
+      ]
+    ],
+    "text": "！這是",
+    "confidence": 0.9418089985847473,
+    "is_chinese": true,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        1323.0,
+        413.0
+      ],
+      [
+        1363.0,
+        414.0
+      ],
+      [
+        1362.0,
+        514.0
+      ],
+      [
+        1321.0,
+        513.0
+      ]
+    ],
+    "text": "少囉唆",
+    "confidence": 0.95991450548172,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "少",
+      "definitions": [
+        {
+          "traditional": "少",
+          "simplified": "少",
+          "pinyin": "shao3",
+          "english": "few/less/to lack/to be missing/to stop (doing sth)/seldom"
+        },
+        {
+          "traditional": "少",
+          "simplified": "少",
+          "pinyin": "shao3",
+          "english": "few/less/to lack/to be missing/to stop (doing sth)/seldom"
+        },
+        {
+          "traditional": "少",
+          "simplified": "少",
+          "pinyin": "shao4",
+          "english": "young"
+        },
+        {
+          "traditional": "少",
+          "simplified": "少",
+          "pinyin": "shao4",
+          "english": "young"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1629.0,
+        408.0
+      ],
+      [
+        1674.0,
+        408.0
+      ],
+      [
+        1674.0,
+        486.0
+      ],
+      [
+        1629.0,
+        486.0
+      ]
+    ],
+    "text": "啦！",
+    "confidence": 0.9830056428909302,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "啦",
+      "definitions": [
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la1",
+          "english": "(onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la1",
+          "english": "(onom.) sound of singing, cheering etc/(phonetic)/(dialect) to chat"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la5",
+          "english": "sentence-final particle, contraction of 了啊, indicating exclamation/particle placed after each item in a list of examples"
+        },
+        {
+          "traditional": "啦",
+          "simplified": "啦",
+          "pinyin": "la5",
+          "english": "sentence-final particle, contraction of 了啊, indicating exclamation/particle placed after each item in a list of examples"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1669.0,
+        407.0
+      ],
+      [
+        1714.0,
+        407.0
+      ],
+      [
+        1714.0,
+        518.0
+      ],
+      [
+        1669.0,
+        518.0
+      ]
+    ],
+    "text": "酒不夠",
+    "confidence": 0.9591708183288574,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "酒",
+      "definitions": [
+        {
+          "traditional": "酒",
+          "simplified": "酒",
+          "pinyin": "jiu3",
+          "english": "wine (esp. rice wine)/liquor/spirits/alcoholic beverage/CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+        },
+        {
+          "traditional": "酒",
+          "simplified": "酒",
+          "pinyin": "jiu3",
+          "english": "wine (esp. rice wine)/liquor/spirits/alcoholic beverage/CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        47.0,
+        504.0
+      ],
+      [
+        86.0,
+        504.0
+      ],
+      [
+        86.0,
+        660.0
+      ],
+      [
+        47.0,
+        660.0
+      ]
+    ],
+    "text": "不輸人的。",
+    "confidence": 0.9824424982070923,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "不",
+      "definitions": [
+        {
+          "traditional": "不",
+          "simplified": "不",
+          "pinyin": "bu4",
+          "english": "no; not so/(bound form) not; un-"
+        },
+        {
+          "traditional": "不",
+          "simplified": "不",
+          "pinyin": "bu4",
+          "english": "no; not so/(bound form) not; un-"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        82.0,
+        502.0
+      ],
+      [
+        124.0,
+        502.0
+      ],
+      [
+        124.0,
+        665.0
+      ],
+      [
+        82.0,
+        665.0
+      ]
+    ],
+    "text": "架，我可是",
+    "confidence": 0.9819597005844116,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "架",
+      "definitions": [
+        {
+          "traditional": "架",
+          "simplified": "架",
+          "pinyin": "jia4",
+          "english": "to support/frame/rack/framework/classifier for planes, large vehicles, radios etc"
+        },
+        {
+          "traditional": "架",
+          "simplified": "架",
+          "pinyin": "jia4",
+          "english": "to support/frame/rack/framework/classifier for planes, large vehicles, radios etc"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        121.0,
+        504.0
+      ],
+      [
+        160.0,
+        504.0
+      ],
+      [
+        160.0,
+        665.0
+      ],
+      [
+        121.0,
+        665.0
+      ]
+    ],
+    "text": "而且說起打",
+    "confidence": 0.993974506855011,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "而且",
+      "definitions": [
+        {
+          "traditional": "而且",
+          "simplified": "而且",
+          "pinyin": "er2 qie3",
+          "english": "(not only ...) but also/moreover; in addition; furthermore"
+        },
+        {
+          "traditional": "而且",
+          "simplified": "而且",
+          "pinyin": "er2 qie3",
+          "english": "(not only ...) but also/moreover; in addition; furthermore"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        228.0,
+        511.0
+      ],
+      [
+        248.0,
+        511.0
+      ],
+      [
+        248.0,
+        545.0
+      ],
+      [
+        228.0,
+        545.0
+      ]
+    ],
+    "text": "一",
+    "confidence": 0.9317869544029236,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "一",
+      "definitions": [
+        {
+          "traditional": "一",
+          "simplified": "一",
+          "pinyin": "yi1",
+          "english": "one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+        },
+        {
+          "traditional": "一",
+          "simplified": "一",
+          "pinyin": "yi1",
+          "english": "one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        253.0,
+        506.0
+      ],
+      [
+        293.0,
+        505.0
+      ],
+      [
+        294.0,
+        669.0
+      ],
+      [
+        254.0,
+        669.0
+      ]
+    ],
+    "text": "落海就行啦",
+    "confidence": 0.9995927810668945,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "落",
+      "definitions": [
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "la4",
+          "english": "to leave out/to be missing/to leave behind or forget to bring/to lag or fall behind"
+        },
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "la4",
+          "english": "to leave out/to be missing/to leave behind or forget to bring/to lag or fall behind"
+        },
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "lao4",
+          "english": "colloquial reading for 落[luo4] in certain compounds"
+        },
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "lao4",
+          "english": "colloquial reading for 落[luo4] in certain compounds"
+        },
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "luo4",
+          "english": "to fall or drop/(of the sun) to set/(of a tide) to go out/to lower/to decline or sink/to lag or fall behind/to fall onto/to rest with/to get or receive/to write down/whereabouts/settlement"
+        },
+        {
+          "traditional": "落",
+          "simplified": "落",
+          "pinyin": "luo4",
+          "english": "to fall or drop/(of the sun) to set/(of a tide) to go out/to lower/to decline or sink/to lag or fall behind/to fall onto/to rest with/to get or receive/to write down/whereabouts/settlement"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        292.0,
+        507.0
+      ],
+      [
+        330.0,
+        506.0
+      ],
+      [
+        332.0,
+        668.0
+      ],
+      [
+        293.0,
+        669.0
+      ]
+    ],
+    "text": "子，只要不",
+    "confidence": 0.9831239581108093,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "子",
+      "definitions": [
+        {
+          "traditional": "子",
+          "simplified": "子",
+          "pinyin": "zi3",
+          "english": "son/child/seed/egg/small thing/1st earthly branch: 11 p.m.–1 a.m., midnight, 11th solar month (7th December to 5th January), year of the rat/viscount, fourth of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]/ancient Chinese compass point: 0° (north)/subsidiary; subordinate; (prefix) sub-"
+        },
+        {
+          "traditional": "子",
+          "simplified": "子",
+          "pinyin": "zi3",
+          "english": "son/child/seed/egg/small thing/1st earthly branch: 11 p.m.–1 a.m., midnight, 11th solar month (7th December to 5th January), year of the rat/viscount, fourth of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]/ancient Chinese compass point: 0° (north)/subsidiary; subordinate; (prefix) sub-"
+        },
+        {
+          "traditional": "子",
+          "simplified": "子",
+          "pinyin": "zi5",
+          "english": "noun suffix, as in 椅子[yi3 zi5] \"chair\""
+        },
+        {
+          "traditional": "子",
+          "simplified": "子",
+          "pinyin": "zi5",
+          "english": "noun suffix, as in 椅子[yi3 zi5] \"chair\""
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        329.0,
+        506.0
+      ],
+      [
+        368.0,
+        506.0
+      ],
+      [
+        370.0,
+        669.0
+      ],
+      [
+        330.0,
+        669.0
+      ]
+    ],
+    "text": "就算是旱鴨",
+    "confidence": 0.9990509152412415,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "就算",
+      "definitions": [
+        {
+          "traditional": "就算",
+          "simplified": "就算",
+          "pinyin": "jiu4 suan4",
+          "english": "(coll.) even if"
+        },
+        {
+          "traditional": "就算",
+          "simplified": "就算",
+          "pinyin": "jiu4 suan4",
+          "english": "(coll.) even if"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1148.0,
+        529.0
+      ],
+      [
+        1529.0,
+        521.0
+      ],
+      [
+        1531.0,
+        641.0
+      ],
+      [
+        1150.0,
+        649.0
+      ]
+    ],
+    "text": "ギゃはははは",
+    "confidence": 0.874936580657959,
+    "is_chinese": false,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        1659.0,
+        545.0
+      ],
+      [
+        1846.0,
+        553.0
+      ],
+      [
+        1843.0,
+        617.0
+      ],
+      [
+        1656.0,
+        609.0
+      ]
+    ],
+    "text": "ははは",
+    "confidence": 0.9464521408081055,
+    "is_chinese": false,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        718.0,
+        764.0
+      ],
+      [
+        973.0,
+        835.0
+      ],
+      [
+        941.0,
+        951.0
+      ],
+      [
+        686.0,
+        881.0
+      ]
+    ],
+    "text": "海夏傑克」",
+    "confidence": 0.7619675397872925,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "海",
+      "definitions": [
+        {
+          "traditional": "海",
+          "simplified": "海",
+          "pinyin": "Hai3",
+          "english": "surname Hai"
+        },
+        {
+          "traditional": "海",
+          "simplified": "海",
+          "pinyin": "Hai3",
+          "english": "surname Hai"
+        },
+        {
+          "traditional": "海",
+          "simplified": "海",
+          "pinyin": "hai3",
+          "english": "ocean/sea/CL:個|个[ge4],片[pian4]/great number of people or things/(dialect) numerous"
+        },
+        {
+          "traditional": "海",
+          "simplified": "海",
+          "pinyin": "hai3",
+          "english": "ocean/sea/CL:個|个[ge4],片[pian4]/great number of people or things/(dialect) numerous"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        753.0,
+        792.0
+      ],
+      [
+        884.0,
+        792.0
+      ],
+      [
+        884.0,
+        846.0
+      ],
+      [
+        753.0,
+        846.0
+      ]
+    ],
+    "text": "賊頭目",
+    "confidence": 0.9988678097724915,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "賊",
+      "definitions": [
+        {
+          "traditional": "賊",
+          "simplified": "贼",
+          "pinyin": "zei2",
+          "english": "thief; robber/(bound form) traitor; subversive/(bound form) evil; wicked/sly; shifty; devious/(literary) to harm; to injure/(coll.) extremely; insanely; damn (common in NE China and Taiwan)"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        35.0,
+        1012.0
+      ],
+      [
+        76.0,
+        1012.0
+      ],
+      [
+        76.0,
+        1085.0
+      ],
+      [
+        35.0,
+        1085.0
+      ]
+    ],
+    "text": "一叫",
+    "confidence": 0.5693790912628174,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "一",
+      "definitions": [
+        {
+          "traditional": "一",
+          "simplified": "一",
+          "pinyin": "yi1",
+          "english": "one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+        },
+        {
+          "traditional": "一",
+          "simplified": "一",
+          "pinyin": "yi1",
+          "english": "one/single/a (article)/as soon as/entire; whole; all; throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        74.0,
+        1013.0
+      ],
+      [
+        113.0,
+        1013.0
+      ],
+      [
+        113.0,
+        1175.0
+      ],
+      [
+        74.0,
+        1175.0
+      ]
+    ],
+    "text": "侨一一障",
+    "confidence": 0.4455738961696625,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "侨",
+      "definitions": [
+        {
+          "traditional": "僑",
+          "simplified": "侨",
+          "pinyin": "qiao2",
+          "english": "emigrant/to reside abroad"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        112.0,
+        1013.0
+      ],
+      [
+        150.0,
+        1013.0
+      ],
+      [
+        150.0,
+        1174.0
+      ],
+      [
+        112.0,
+        1174.0
+      ]
+    ],
+    "text": "别创务创部",
+    "confidence": 0.5533860921859741,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "别",
+      "definitions": [
+        {
+          "traditional": "別",
+          "simplified": "别",
+          "pinyin": "Bie2",
+          "english": "surname Bie"
+        },
+        {
+          "traditional": "別",
+          "simplified": "别",
+          "pinyin": "bie2",
+          "english": "to leave; to part (from)/(literary) to differentiate; to distinguish/(dialect) to turn away; to turn aside; to avert (one's face, gaze etc)/(bound form) other; another; different/don't ...!/to fasten with a pin or clip/to stick in; to insert (in order to hinder movement)/(noun suffix) category (as in 性別|性别[xing4 bie2], 派別|派别[pai4 bie2])"
+        },
+        {
+          "traditional": "彆",
+          "simplified": "别",
+          "pinyin": "bie4",
+          "english": "to make sb change their ways, opinions etc"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        234.0,
+        1026.0
+      ],
+      [
+        272.0,
+        1026.0
+      ],
+      [
+        272.0,
+        1153.0
+      ],
+      [
+        234.0,
+        1153.0
+      ]
+    ],
+    "text": "意特",
+    "confidence": 0.2808229625225067,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "意",
+      "definitions": [
+        {
+          "traditional": "意",
+          "simplified": "意",
+          "pinyin": "yi4",
+          "english": "(bound form) idea; thought; meaning; sense/(bound form) intention; feeling; inclination; state of mind/(bound form) Italy (abbr. for 意大利[Yi4 da4 li4])"
+        },
+        {
+          "traditional": "意",
+          "simplified": "意",
+          "pinyin": "yi4",
+          "english": "(bound form) idea; thought; meaning; sense/(bound form) intention; feeling; inclination; state of mind/(bound form) Italy (abbr. for 意大利[Yi4 da4 li4])"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        272.0,
+        1026.0
+      ],
+      [
+        312.0,
+        1026.0
+      ],
+      [
+        312.0,
+        1158.0
+      ],
+      [
+        272.0,
+        1158.0
+      ]
+    ],
+    "text": "馆",
+    "confidence": 0.5414512157440186,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "馆",
+      "definitions": [
+        {
+          "traditional": "舘",
+          "simplified": "馆",
+          "pinyin": "guan3",
+          "english": "variant of 館|馆[guan3]"
+        },
+        {
+          "traditional": "館",
+          "simplified": "馆",
+          "pinyin": "guan3",
+          "english": "building/shop/term for certain service establishments/embassy or consulate/schoolroom (old)/CL:家[jia1]"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1619.0,
+        1086.0
+      ],
+      [
+        1662.0,
+        1085.0
+      ],
+      [
+        1663.0,
+        1189.0
+      ],
+      [
+        1621.0,
+        1190.0
+      ]
+    ],
+    "text": "上集",
+    "confidence": 0.39522361755371094,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "上",
+      "definitions": [
+        {
+          "traditional": "上",
+          "simplified": "上",
+          "pinyin": "shang3",
+          "english": "used in 上聲|上声[shang3 sheng1]"
+        },
+        {
+          "traditional": "上",
+          "simplified": "上",
+          "pinyin": "shang3",
+          "english": "used in 上聲|上声[shang3 sheng1]"
+        },
+        {
+          "traditional": "上",
+          "simplified": "上",
+          "pinyin": "shang4",
+          "english": "(bound form) up; upper; above; previous/first (of multiple parts)/to climb; to get onto; to go up/to attend (class or university)/(directional complement) up/(noun suffix) on; above"
+        },
+        {
+          "traditional": "上",
+          "simplified": "上",
+          "pinyin": "shang4",
+          "english": "(bound form) up; upper; above; previous/first (of multiple parts)/to climb; to get onto; to go up/to attend (class or university)/(directional complement) up/(noun suffix) on; above"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1659.0,
+        1086.0
+      ],
+      [
+        1698.0,
+        1086.0
+      ],
+      [
+        1699.0,
+        1250.0
+      ],
+      [
+        1660.0,
+        1250.0
+      ]
+    ],
+    "text": "後別再幹傻",
+    "confidence": 0.9750629663467407,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "後",
+      "definitions": [
+        {
+          "traditional": "後",
+          "simplified": "后",
+          "pinyin": "hou4",
+          "english": "back/behind/rear/afterwards/after/later/post-"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1696.0,
+        1086.0
+      ],
+      [
+        1739.0,
+        1086.0
+      ],
+      [
+        1739.0,
+        1252.0
+      ],
+      [
+        1696.0,
+        1252.0
+      ]
+    ],
+    "text": "你胡扯！以",
+    "confidence": 0.9974069595336914,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "你",
+      "definitions": [
+        {
+          "traditional": "你",
+          "simplified": "你",
+          "pinyin": "ni3",
+          "english": "you (informal, as opposed to courteous 您[nin2])"
+        },
+        {
+          "traditional": "你",
+          "simplified": "你",
+          "pinyin": "ni3",
+          "english": "you (informal, as opposed to courteous 您[nin2])"
+        },
+        {
+          "traditional": "妳",
+          "simplified": "你",
+          "pinyin": "ni3",
+          "english": "you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1781.0,
+        1084.0
+      ],
+      [
+        1821.0,
+        1084.0
+      ],
+      [
+        1823.0,
+        1190.0
+      ],
+      [
+        1782.0,
+        1190.0
+      ]
+    ],
+    "text": "痛了。",
+    "confidence": 0.9910300374031067,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "痛",
+      "definitions": [
+        {
+          "traditional": "痛",
+          "simplified": "痛",
+          "pinyin": "tong4",
+          "english": "ache/pain/sorrow/deeply/thoroughly"
+        },
+        {
+          "traditional": "痛",
+          "simplified": "痛",
+          "pinyin": "tong4",
+          "english": "ache/pain/sorrow/deeply/thoroughly"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1821.0,
+        1084.0
+      ],
+      [
+        1863.0,
+        1084.0
+      ],
+      [
+        1863.0,
+        1223.0
+      ],
+      [
+        1821.0,
+        1223.0
+      ]
+    ],
+    "text": "我已經不",
+    "confidence": 0.9963898062705994,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "我",
+      "definitions": [
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        },
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1860.0,
+        1085.0
+      ],
+      [
+        1899.0,
+        1085.0
+      ],
+      [
+        1899.0,
+        1127.0
+      ],
+      [
+        1860.0,
+        1127.0
+      ]
+    ],
+    "text": "啊",
+    "confidence": 0.9933909177780151,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "啊",
+      "definitions": [
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a1",
+          "english": "interjection of surprise/Ah!/Oh!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a1",
+          "english": "interjection of surprise/Ah!/Oh!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a2",
+          "english": "interjection expressing doubt or requiring answer/Eh?/what?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a2",
+          "english": "interjection expressing doubt or requiring answer/Eh?/what?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a3",
+          "english": "interjection of surprise or doubt/Eh?/My!/what's up?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a3",
+          "english": "interjection of surprise or doubt/Eh?/My!/what's up?"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a4",
+          "english": "interjection or grunt of agreement/uhm/Ah, OK/expression of recognition/Oh, it's you!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a4",
+          "english": "interjection or grunt of agreement/uhm/Ah, OK/expression of recognition/Oh, it's you!"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a5",
+          "english": "modal particle ending sentence, showing affirmation, approval, or consent"
+        },
+        {
+          "traditional": "啊",
+          "simplified": "啊",
+          "pinyin": "a5",
+          "english": "modal particle ending sentence, showing affirmation, approval, or consent"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1450.0,
+        1107.0
+      ],
+      [
+        1497.0,
+        1107.0
+      ],
+      [
+        1497.0,
+        1191.0
+      ],
+      [
+        1450.0,
+        1191.0
+      ]
+    ],
+    "text": "吧！",
+    "confidence": 0.8982918858528137,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "吧",
+      "definitions": [
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "ba1",
+          "english": "bar (loanword) (serving drinks, or providing Internet access etc)/to puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tie1 ba1]"
+        },
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "ba1",
+          "english": "bar (loanword) (serving drinks, or providing Internet access etc)/to puff (on a pipe etc)/(onom.) bang/abbr. for 貼吧|贴吧[tie1 ba1]"
+        },
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "ba5",
+          "english": "(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume."
+        },
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "ba5",
+          "english": "(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume."
+        },
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "bia1",
+          "english": "(onom.) smack!"
+        },
+        {
+          "traditional": "吧",
+          "simplified": "吧",
+          "pinyin": "bia1",
+          "english": "(onom.) smack!"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1493.0,
+        1106.0
+      ],
+      [
+        1543.0,
+        1107.0
+      ],
+      [
+        1541.0,
+        1477.0
+      ],
+      [
+        1492.0,
+        1477.0
+      ]
+    ],
+    "text": "下次航海就帶我一塊去",
+    "confidence": 0.978087306022644,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "下次",
+      "definitions": [
+        {
+          "traditional": "下次",
+          "simplified": "下次",
+          "pinyin": "xia4 ci4",
+          "english": "next time"
+        },
+        {
+          "traditional": "下次",
+          "simplified": "下次",
+          "pinyin": "xia4 ci4",
+          "english": "next time"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1535.0,
+        1103.0
+      ],
+      [
+        1585.0,
+        1103.0
+      ],
+      [
+        1585.0,
+        1476.0
+      ],
+      [
+        1535.0,
+        1476.0
+      ]
+    ],
+    "text": "我一點都不怕受傷呢！",
+    "confidence": 0.9993488192558289,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "我",
+      "definitions": [
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        },
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1042.0,
+        1150.0
+      ],
+      [
+        1087.0,
+        1150.0
+      ],
+      [
+        1087.0,
+        1306.0
+      ],
+      [
+        1042.0,
+        1306.0
+      ]
+    ],
+    "text": "海賊啊！",
+    "confidence": 0.9901655912399292,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "海賊",
+      "definitions": [
+        {
+          "traditional": "海賊",
+          "simplified": "海贼",
+          "pinyin": "hai3 zei2",
+          "english": "pirate"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1085.0,
+        1148.0
+      ],
+      [
+        1133.0,
+        1148.0
+      ],
+      [
+        1133.0,
+        1410.0
+      ],
+      [
+        1085.0,
+        1410.0
+      ]
+    ],
+    "text": "我真的很想成為",
+    "confidence": 0.9998804330825806,
+    "is_chinese": true,
+    "dictionary": {
+      "word": "我",
+      "definitions": [
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        },
+        {
+          "traditional": "我",
+          "simplified": "我",
+          "pinyin": "wo3",
+          "english": "I; me; my"
+        }
+      ]
+    }
+  },
+  {
+    "box": [
+      [
+        1216.0,
+        1376.0
+      ],
+      [
+        1369.0,
+        1374.0
+      ],
+      [
+        1370.0,
+        1460.0
+      ],
+      [
+        1217.0,
+        1462.0
+      ]
+    ],
+    "text": "ANCHOR AOR",
+    "confidence": 0.7899969220161438,
+    "is_chinese": false,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        1271.0,
+        1370.0
+      ],
+      [
+        1308.0,
+        1370.0
+      ],
+      [
+        1308.0,
+        1397.0
+      ],
+      [
+        1271.0,
+        1397.0
+      ]
+    ],
+    "text": "d",
+    "confidence": 0.4508838355541229,
+    "is_chinese": false,
+    "dictionary": null
+  },
+  {
+    "box": [
+      [
+        0.0,
+        1444.0
+      ],
+      [
+        221.0,
+        1446.0
+      ],
+      [
+        220.0,
+        1564.0
+      ],
+      [
+        0.0,
+        1564.0
+      ]
+    ],
+    "text": "NOC",
+    "confidence": 0.822031557559967,
+    "is_chinese": false,
+    "dictionary": null
+  }
+]

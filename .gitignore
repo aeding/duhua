@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+**/node_modules/
+backend/.venv/
+.venv/
+env/
+venv/
+
+# Environment Variables & Secrets
+.env
+*.env
+*.env.*
+gemini_key.txt
+*.key
+*.pem
+*-key.json
+credentials*.json
+my_env.tfvars
+
+# Python Cache & Testing
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.cache/
+*.log
+
+# Build Outputs
+frontend/dist/
+dist/
+build/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Temporary Test Images & Local Visual Verification Artifacts
+temp*
+*.jpg
+*.png
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/**/*.png
+!screenshots/**/*.jpg
+
+# ADK & Local Agent Caches
+.adk/
+.google-agents-cli/
+.saved_chats/
+.persist_vector_store
