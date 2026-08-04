@@ -39,14 +39,20 @@ Thumbs.db
 .idea/
 *.sublime-workspace
 
-# Temporary Test Images & Local Visual Verification Artifacts
+# Screenshots & Media Files
+screenshots/
+**/screenshots/
 temp*
 *.jpg
+*.jpeg
 *.png
-!screenshots/*.png
-!screenshots/*.jpg
-!screenshots/**/*.png
-!screenshots/**/*.jpg
+*.webp
+*.gif
+*.svg
+*.mp4
+*.mov
+*.webm
+*.avi
 
 # ADK & Local Agent Caches
 .adk/
