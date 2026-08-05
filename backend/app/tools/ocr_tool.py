@@ -3,10 +3,22 @@ import tempfile
 import os
 import re
 import logging
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from PIL import Image
 from paddleocr import PaddleOCR
-from app.tools.dictionary_tool import lookup_vocab
+from pydantic import BaseModel
+from app.tools.dictionary_tool import lookup_vocab, DictionaryMatch
+
+class OcrResult(BaseModel):
+    box: List[List[float]]
+    text: str
+    confidence: float
+    is_chinese: bool
+    dictionary: Optional[DictionaryMatch] = None
+
+class OcrError(BaseModel):
+    error: str
+
 
 # Configure logging to hide noisy PaddleOCR logs
 logging.getLogger('ppocr').setLevel(logging.ERROR)
@@ -46,26 +58,26 @@ def transform_point_back(pt: List[float], angle: int, img_w: float, img_h: float
     else:
         return [x, y]
 
-def run_ocr(image_url: str) -> List[Dict[str, Any]]:
+def run_ocr(image_url: str) -> List[OcrResult | OcrError]:
     """Downloads an image from a URL and runs OCR to extract Chinese text, bounding boxes, and pre-calculated dictionary definitions.
     
     Args:
         image_url: The URL of the image to process.
         
     Returns:
-        A list of dictionaries where each dictionary contains 'text', 'confidence', 'box', 'is_chinese', and 'dictionary'.
+        A list of OcrResult objects. On failure, returns a list containing a single OcrError object.
     """
     try:
         response = httpx.get(image_url, timeout=15.0)
         response.raise_for_status()
     except Exception as e:
-        return [{"error": f"Failed to download image: {str(e)}"}]
+        return [OcrError(error=f"Failed to download image: {str(e)}. Please tell the user to try again or check the image format.")]
         
     try:
         pil_img = Image.open(__import__('io').BytesIO(response.content)).convert('RGB')
         img_width, img_height = pil_img.size
     except Exception as e:
-        return [{"error": f"Failed to find image size: {str(e)}"}]
+        return [OcrError(error=f"Failed to find image size: {str(e)}. Please tell the user to try again or check the image format.")]
 
     with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp:
         if 'pil_img' in locals():
@@ -110,16 +122,16 @@ def run_ocr(image_url: str) -> List[Dict[str, Any]]:
                 
                 is_ch = contains_chinese(text_str)
                 dict_def = lookup_vocab(text_str) if is_ch else None
-                if dict_def and "error" in dict_def:
+                if dict_def and hasattr(dict_def, "error"):
                     dict_def = None
 
-                extracted.append({
-                    "box": cartesian_box,
-                    "text": text_str,
-                    "confidence": float(scores[i]) if i < len(scores) else 1.0,
-                    "is_chinese": is_ch,
-                    "dictionary": dict_def
-                })
+                extracted.append(OcrResult(
+                    box=cartesian_box,
+                    text=text_str,
+                    confidence=float(scores[i]) if i < len(scores) else 1.0,
+                    is_chinese=is_ch,
+                    dictionary=dict_def
+                ))
         # 2. Legacy PaddleOCR 2.x list output
         elif isinstance(res0, (list, tuple)):
             for line in res0:
@@ -139,21 +151,21 @@ def run_ocr(image_url: str) -> List[Dict[str, Any]]:
                         continue
                     is_ch = contains_chinese(text_str)
                     dict_def = lookup_vocab(text_str) if is_ch else None
-                    if dict_def and "error" in dict_def:
+                    if dict_def and hasattr(dict_def, "error"):
                         dict_def = None
 
-                    extracted.append({
-                        "box": cartesian_box,
-                        "text": text_str,
-                        "confidence": confidence,
-                        "is_chinese": is_ch,
-                        "dictionary": dict_def
-                    })
+                    extracted.append(OcrResult(
+                        box=cartesian_box,
+                        text=text_str,
+                        confidence=confidence,
+                        is_chinese=is_ch,
+                        dictionary=dict_def
+                    ))
         return extracted
     except Exception as e:
         import traceback
         traceback.print_exc()
-        return [{"error": f"OCR processing failed: {str(e)}"}]
+        return [OcrError(error=f"OCR processing failed: {str(e)}. Please tell the user to try again or check the image format.")]
     finally:
         if os.path.exists(tmp_path):
             os.remove(tmp_path)

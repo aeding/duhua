@@ -6,13 +6,13 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from google.adk.cli import fast_api
 from pydantic import BaseModel
-from typing import Optional, Any
+from typing import Optional, Any, List
 import uuid
 from google.genai import types
 
-from app.tools.ocr_tool import run_ocr, get_ocr_instance
-from app.tools.dictionary_tool import lookup_vocab, load_dictionary
-from app.tools.vocab_tool import manage_vocab
+from app.tools.ocr_tool import run_ocr, get_ocr_instance, OcrResult, OcrError
+from app.tools.dictionary_tool import lookup_vocab, load_dictionary, DictionaryMatch, LookupError
+from app.tools.vocab_tool import manage_vocab, VocabWord, VocabResponse
 
 # Setup root path to backend root
 BACKEND_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -50,11 +50,14 @@ app.title = "backend"
 app.description = "API for interacting with the Agent backend"
 
 from google.adk.runners import Runner
-from google.adk.sessions import InMemorySessionService
+from google.adk.sessions.database_session_service import DatabaseSessionService
+from google.adk.memory import InMemoryMemoryService
 from app.agent import app as adk_app
 
-session_service = InMemorySessionService()
-adk_runner = Runner(app=adk_app, session_service=session_service)
+session_service = DatabaseSessionService(db_url="sqlite+aiosqlite:///sessions.db")
+memory_service = InMemoryMemoryService()
+adk_runner = Runner(app=adk_app, session_service=session_service, memory_service=memory_service)
+
 
 class OcrRequest(BaseModel):
     image_url: str
@@ -64,7 +67,7 @@ class DictRequest(BaseModel):
 
 class VocabRequest(BaseModel):
     action: str
-    word_data: Optional[dict[str, Any]] = None
+    word_data: Optional[VocabWord] = None
 
 class PageContext(BaseModel):
     image_url: Optional[str] = None
@@ -75,15 +78,15 @@ class ChatRequest(BaseModel):
     session_id: Optional[str] = None
     page_context: Optional[PageContext] = None
 
-@app.post("/api/ocr")
+@app.post("/api/ocr", response_model=List[OcrResult | OcrError])
 def api_ocr(req: OcrRequest):
     return run_ocr(req.image_url)
 
-@app.post("/api/dictionary")
+@app.post("/api/dictionary", response_model=DictionaryMatch | LookupError)
 def api_dictionary(req: DictRequest):
     return lookup_vocab(req.text)
 
-@app.post("/api/vocab")
+@app.post("/api/vocab", response_model=VocabResponse)
 def api_vocab(req: VocabRequest):
     return manage_vocab(req.action, req.word_data)
 

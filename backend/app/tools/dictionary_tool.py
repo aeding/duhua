@@ -3,6 +3,21 @@ import zipfile
 import threading
 import httpx
 from typing import Dict, Any, List, Optional
+from pydantic import BaseModel
+
+class DictionaryDefinition(BaseModel):
+    traditional: str
+    simplified: str
+    pinyin: str
+    english: str
+
+class DictionaryMatch(BaseModel):
+    word: str
+    definitions: List[DictionaryDefinition]
+
+class LookupError(BaseModel):
+    error: str
+
 
 DICT_URL = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.zip"
 DICT_DIR = os.path.join(os.path.dirname(__file__), "data")
@@ -98,14 +113,18 @@ def load_dictionary():
         _trie = trie_instance
         print("CC-CEDICT Trie dictionary loaded into memory.")
 
-def lookup_vocab(text: str) -> Optional[Dict[str, Any]]:
+def lookup_vocab(text: str) -> DictionaryMatch | LookupError:
     """Looks up the longest matching Chinese word at the start of the given text.
     
     Args:
         text: A string starting with a Chinese character.
         
     Returns:
-        A dictionary containing the longest matched word and its definitions, or None.
+        DictionaryMatch on success, LookupError on failure.
     """
     load_dictionary()
-    return _trie.longest_match(text)
+    match = _trie.longest_match(text)
+    if match:
+        defs = [DictionaryDefinition(**d) for d in match["definitions"]]
+        return DictionaryMatch(word=match["word"], definitions=defs)
+    return LookupError(error=f"No dictionary match found for text: '{text}'. Please try a different word or explain to the user that it might be a name or unlisted compound.")
